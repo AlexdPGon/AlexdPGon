@@ -40,21 +40,15 @@
 
 ## 🏆 Certificações
 
-<div align="center">
+Abaixo estão algumas certificações que demonstram meu comprometimento constante com o aprendizado, a evolução profissional e o aprofundamento em conhecimentos técnicos.
 
-<a href="LINK_DA_SUA_CREDENCIAL_AWS" target="_blank">
-  <img src="URL_DA_IMAGEM_DO_BADGE" alt="AWS Certified" width="180"/>
-</a>
-
-<br/>
-
-**AWS Certified Cloud Practitioner**
-
-</div>
-
-<br/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002B62&height=120&section=footer"/>
+<p align="left">
+  <img src="./img/badge_Technical_Accredited.png" alt="Technical Accredited" width="120"/>
+  <img src="./img/aws-partner-sales-accreditation.png" alt="Sales Accreditation" width="120"/>
+  <img src="./img/aws-partner-cloud-economics-essentials.png" alt="Cloud Economics" width="120"/>
+  <img src="./img/aws-cloud-quest-cloud-practitioner.png" alt="Cloud Practitioner" width="120"/>
+  <img src="./img/aws-certified-cloud-practitioner.png" alt="Cloud Practitioner" width="120"/>
+</p>
 
 
 <img src="/img/lineBar.png" width="100%" height="8px"/>
