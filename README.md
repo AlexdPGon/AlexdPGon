@@ -1,42 +1,63 @@
 <img width=100% src="/img/mario.gif"/>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&random=true&width=600&height=100&lines=Data+Engineer;Knowledge+is+power!;In+the+process+of+studying+and+learning;Have+a+nice+day!" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&random=true&width=600&height=100&lines=Data+Engineer;Knowledge+is+power!;In+the+process+of+studying+and+learning;Have+a+nice+day!" alt="Typing SVG"/>
+  </a>
 </div>
 
 <div align='center'>
-
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexdPGon&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexdPGon&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
-
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexdPGon&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&include_all_commits=true"
+      />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexdPGon&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&include_all_commits=true"
+      /> 
+  </div>
 </div>
 
 <img src="/img/lineBar.png" width="100%" height="8px"/>
 
-<div><br/>
+<div>
+  <br/>
 
 ## 🚀 **Linguagens e Frameworks**:
 
 #### 🌱 Estou aprendendo todos os dias:
 
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,mysql,docker,aws,git&theme=dark"/>
 
 ## **Um pouco sobre mim**
 
-- Olá! Pode me chamar de Alex. Sou um desenvolvedor em formação com foco em Engenharia e Ciência de Dados. <br/>
-- Atualmente, tenho aprendido bastante sobre tecnologia, algoritmos, lógica e linguagens de programação. <br/>
-- Tenho estudado sobre: Python, Pandas, MatPlotLib, MySQL, SQLite, Docker, AWS, entre outros. <br/>
-- Me considero determinado e estou realmente empenhado em alcançar meus objetivos. <br/>
-- Gosto muito de aprender e me conectar com pessoas! Se quiser falar sobre tecnologia, estudos, games ou esportes, só mandar uma mensagem!
+* Olá! Pode me chamar de Alex. Sou um desenvolvedor em formação, apaixonado por Desenvolvimento de Sistemas e Arquitetura de Software. <br/>
+* Atualmente, estou aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas, boas práticas de desenvolvimento, design de soluções e tecnologias modernas. <br/>
+* Tenho estudado e desenvolvido projetos utilizando Python, Java, Docker, bancos de dados SQL, APIs, Git, AWS e outras ferramentas do ecossistema de desenvolvimento. <br/>
+* Acredito que construir software vai além de escrever código: envolve criar soluções escaláveis, bem estruturadas e que gerem valor para as pessoas. <br/>
+* Gosto muito de aprender, compartilhar conhecimento e ensinar, porque acredito que ensinar é uma das melhores formas de aprender. Também gosto de conhecer novas pessoas e trocar experiências sobre tecnologia, arquitetura de sistemas, programação, estudos, games e esportes. Fique à vontade para entrar em contato!
+
 
 <br/>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="/img/lineBar.png" width="100%" height="8px"/>
+
+## 🏆 Certificações
+
+<div align="center">
+
+<a href="LINK_DA_SUA_CREDENCIAL_AWS" target="_blank">
+  <img src="URL_DA_IMAGEM_DO_BADGE" alt="AWS Certified" width="180"/>
+</a>
+
+<br/>
+
+**AWS Certified Cloud Practitioner**
+
+</div>
+
+<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002B62&height=120&section=footer"/>
+
+
+<img src="/img/lineBar.png" width="100%" height="8px"/>
 
 ## Vamos nos conectar?
 
