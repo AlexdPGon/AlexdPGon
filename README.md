@@ -50,6 +50,11 @@ Abaixo estão algumas certificações que demonstram meu comprometimento constan
   <img src="./img/aws-certified-cloud-practitioner.png" alt="Cloud Practitioner" width="120"/>
 </p>
 
+<br>
+<a href="https://www.credly.com/badges/88767403-c869-4759-bdfc-fb874a239c18/linked_in" target="_blank">
+  <p>- Certificação Cloud Practitioner<p/>
+</a>
+
 
 <img src="/img/lineBar.png" width="100%" height="8px"/>
 
